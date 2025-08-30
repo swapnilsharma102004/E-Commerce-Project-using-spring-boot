@@ -1,4 +1,5 @@
-INSERT INTO product (name, desc, brand, price, category, release_date, availabe, quantity) VALUES
+INSERT INTO product (name, description, brand, price, category, release_date, product_available, stock_quantity) VALUES
+
 
 ('Camry', 'A reliable and fuel-efficient mid-size sedan.', 'Toyota', 28000.00, 'Sedan', '2023-05-15', TRUE, 120),
 ('Explorer', 'A versatile and spacious SUV for families.', 'Ford', 45000.00, 'SUV', '2023-01-20', TRUE, 75),
